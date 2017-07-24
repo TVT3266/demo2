@@ -1,0 +1,16 @@
+CACHE MANIFEST
+#v1.0.7
+
+CACHE:
+../css/index.css
+../js/flexible.js
+../js/flexible_css.js
+../js/index.js
+
+NETWORK:
+*
+
+FALLBACK:
+
+
+SETTINGS:
